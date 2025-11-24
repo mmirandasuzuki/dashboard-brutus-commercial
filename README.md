@@ -2,15 +2,11 @@
 
 ## 📁 Repositório #2 de BI – Caso Fictício para Portfólio
 
-📅 Ano
+---
 
-2025
-
-🛠️ Ferramentas
+## 🛠️ Ferramentas
 
 Power BI Desktop – modelagem, DAX, navegação e RLS
-
-Excel – estruturação e preparação dos dados
 
 Figma – design visual do dashboard
 
@@ -30,48 +26,33 @@ Este projeto apresenta a construção de um Dashboard Comercial completo, capaz 
 
 Além disso, o projeto implementa um RLS (Row-Level Security) integrado com uma tabela de usuários e SharePoint, garantindo segurança de acesso por País.
 
-## 🔔 Todos os dados são fictícios e foram criados apenas para fins educacionais.
+---
 
-## 🗂️ Arquitetura da Solução
-### 📌 1. Base no SharePoint
+*🔔 Todos os dados são fictícios e foram criados apenas para fins educacionais.*
 
-Toda a base de dados foi armazenada no SharePoint, permitindo:
+---
 
-Atualização automática
-
-Governança e versionamento
-
-Integração segura com Power BI
-
-### 📌 2. Modelagem em Snowflake Schema
-
-Composto por:
-
-Tabelas fato: fVendas
-
-Dimensões: Produtos, Lojas, Localidades, Promoções, Calendário, Categorias/subcategorias
-
-Tabelas auxiliares:
-
-Selecao_Medida → troca de indicadores
-
-Segmento_Visual → segmentações dinâmicas
+### 📌 Modelagem em Snowflake Schema: 
+  - Fatos, Dimensões,
+  - Tabelas auxiliares:
+      - Selecao_Medida → troca de indicadores
+      - Segmento_Visual → segmentações dinâmicas
+      - 
+### 📌 RLS – Segurança de Acesso
 
 RLS_Usuarios → mapeamento Email x País
-
-📌 3. RLS – Segurança de Acesso
 
 Implementado via:
 
 [Email] = USERPRINCIPALNAME()
 
-
 Conectado à tabela RLS_Usuarios
 Permitindo que cada usuário visualize apenas dados do seu País autorizado.
 
+---
 ## 📊 Estrutura do Dashboard
 
-### 🌍 1. Aba Geral – Visão Global de Performance
+### 🌍 1. Aba Geral – Visão Geral de Performance
 
 - KPIs estratégicos (Vendas Brutas, Margem, Crescimento LY, Vendas Líquidas)
 
@@ -83,8 +64,7 @@ Permitindo que cada usuário visualize apenas dados do seu País autorizado.
 
 * 👉 Objetivo: visão executiva para decisões rápidas. *
 
-📸 Print da Aba Geral
-(adicione a imagem aqui — exemplo do Notion)
+![Dashboard - Figma](./pag1.png)
 
 ### 📈 2. Aba Performance – Visão Estratégica
 
@@ -171,4 +151,5 @@ DAX e Modelagem em Snowflake
 Este projeto utiliza dados fictícios, criados exclusivamente para fins de estudo e prática.
 
 Todo o material faz parte do meu portfólio analítico e não representa nenhum dado real empresarial.
+
 
