@@ -1,6 +1,6 @@
-🎯 Dashboard Comercial – Visão Estratégica e Operacional (SharePoint + RLS)
+# 🎯 Dashboard Comercial – Visão Estratégica e Operacional (SharePoint + RLS)
 
-📁 Repositório #2 de BI – Caso Fictício para Portfólio
+## 📁 Repositório #2 de BI – Caso Fictício para Portfólio
 
 📅 Ano
 
@@ -167,4 +167,5 @@ DAX e Modelagem em Snowflake
 ⚠️ Observações
 
 Este projeto utiliza dados fictícios, criados exclusivamente para fins de estudo e prática.
+
 Todo o material faz parte do meu portfólio analítico e não representa nenhum dado real empresarial.
