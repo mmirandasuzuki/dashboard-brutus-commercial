@@ -58,24 +58,21 @@ Permitindo que cada usuário visualize apenas dados do seu País autorizado.
 
 ### 📈 2. Aba Performance – Visão Estratégica
 
-Análise histórica mês a mês (vendas x ano anterior)
+- Análise histórica mês a mês (vendas x ano anterior)
 
-Participação das categorias no total de vendas
+- Participação das categorias no total de vendas
 
-Ranking das marcas com maior retorno
+- Ranking das marcas com maior retorno
 
-Margem por categoria
-
-🧰 Inclui Tooltip personalizada:
-→ ao passar o mouse sobre a linha, exibe:
-
-Nome do mês
-
-Valor da venda
-
-Indicador selecionado
-
+- Margem por categoria
+- 
 ![Dashboard - Figma](./pag2.png)
+
+### 🧰 Inclui Tooltip personalizada:
+→ ao passar o mouse sobre a linha, exibe: Nome do mês e Valor da venda brutas.
+
+ ![Tooltip personalizada com métricas dedicadas](./tooltip.png)
+
 
 ---
 
@@ -92,22 +89,7 @@ Indicador selecionado
 
 - Gráfico País com ranking de faturamento
 
-📸 Print da Aba Promoções
-
-🔢 Principais Indicadores Criados
-📌 Métricas DAX (exemplos)
-
-- Vendas Brutas
-
-- Crescimento LY
-
-- Margem (%)
-
-- Vendas Líquidas
-
-- Tooltip personalizada com métricas dedicadas
-
- ![Dashboard - Tooltip](./tooltip.png)
+![Dashboard - Figma](./pag3.png)
 
  ---
 
@@ -132,6 +114,7 @@ Indicador selecionado
 ### ⚠️ Observações
 
 Este projeto utiliza dados fictícios, criados exclusivamente para fins de estudo e prática. Todo o material faz parte do meu portfólio analítico e não representa nenhum dado real empresarial.
+
 
 
 
