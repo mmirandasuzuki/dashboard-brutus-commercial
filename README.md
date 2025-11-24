@@ -31,11 +31,11 @@ Além disso, o projeto implementa um RLS (Row-Level Security) integrado com uma 
       - 
 ### 📌 RLS – Segurança de Acesso
 
-RLS_Usuarios → mapeamento Email x País
+- RLS_Usuarios → mapeamento Email x País
 
-Implementado via:
+- Implementado via:
 
-[Email] = USERPRINCIPALNAME()
+      -[Email] = USERPRINCIPALNAME()
 
 Conectado à tabela RLS_Usuarios
 Permitindo que cada usuário visualize apenas dados do seu País autorizado.
@@ -57,6 +57,9 @@ Permitindo que cada usuário visualize apenas dados do seu País autorizado.
 
 ![Dashboard - Figma](./pag1.png)
 
+---
+
+
 ### 📈 2. Aba Performance – Visão Estratégica
 
 Análise histórica mês a mês (vendas x ano anterior)
@@ -77,6 +80,8 @@ Valor da venda
 Indicador selecionado
 
 ![Dashboard - Figma](./pag2.png)
+
+---
 
 
 ### 🛒 3. Aba Promoções & Descontos
@@ -108,17 +113,17 @@ Indicador selecionado
 
  ![Dashboard - Tooltip](./tooltip.png)
 
-📌 Segmentações Inteligentes
+ ---
 
-Botões de alternância entre indicadores
 
-Segmentação por País, Loja e Categoria
+## 📌 Segmentações Inteligentes
 
-Filtros sincronizados entre abas
+- Botões de alternância entre indicadores
 
-📊 Prints do Dashboard
+- Segmentação por País, Loja e Categoria
 
-(adicione aqui pg1, pg2, pg3 exatamente como no seu primeiro repositório)
+- Filtros sincronizados entre abas
+
 
 🔗 Visualize o Dashboard
 
@@ -128,14 +133,15 @@ Filtros sincronizados entre abas
 
 ## 🛠️ Ferramentas
 
-      -Power BI Desktop – modelagem, DAX, navegação e RLS
-      -Figma – design visual do dashboard
-      -SharePoint – armazenamento e atualização automática da base
+  - Power BI Desktop – modelagem, DAX, navegação e RLS
+  - Figma – design visual do dashboard
+  - SharePoint – armazenamento e atualização automática da base
 
 
 ### ⚠️ Observações
 
 Este projeto utiliza dados fictícios, criados exclusivamente para fins de estudo e prática. Todo o material faz parte do meu portfólio analítico e não representa nenhum dado real empresarial.
+
 
 
 
