@@ -33,7 +33,7 @@ Além disso, o projeto implementa um RLS (Row-Level Security) integrado com uma 
 
 - Implementado via:
 
-      -[Email] = USERPRINCIPALNAME()
+      [Email] = USERPRINCIPALNAME()
 
 Conectado à tabela RLS_Usuarios
 Permitindo que cada usuário visualize apenas dados do seu País autorizado.
@@ -116,6 +116,7 @@ Permitindo que cada usuário visualize apenas dados do seu País autorizado.
 ### ⚠️ Observações
 
 Este projeto utiliza dados fictícios, criados exclusivamente para fins de estudo e prática. Todo o material faz parte do meu portfólio analítico e não representa nenhum dado real empresarial.
+
 
 
 
