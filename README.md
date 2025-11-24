@@ -2,15 +2,6 @@
 
 ## 📁 Repositório #2 de BI – Caso Fictício para Portfólio
 
----
-
-## 🛠️ Ferramentas
-
-Power BI Desktop – modelagem, DAX, navegação e RLS
-
-Figma – design visual do dashboard
-
-SharePoint – armazenamento e atualização automática da base
 
 ---
 ## 🧩 Visão Geral do Projeto
@@ -133,23 +124,19 @@ Filtros sincronizados entre abas
 
 👉 Adicione aqui o link do Power BI Service, se desejar
 
-🧰 Ferramentas Utilizadas
+---
 
-Power BI Desktop
+## 🛠️ Ferramentas
 
-Excel
+      -Power BI Desktop – modelagem, DAX, navegação e RLS
+      -Figma – design visual do dashboard
+      -SharePoint – armazenamento e atualização automática da base
 
-Figma
 
-SharePoint (automação da base)
+### ⚠️ Observações
 
-DAX e Modelagem em Snowflake
+Este projeto utiliza dados fictícios, criados exclusivamente para fins de estudo e prática. Todo o material faz parte do meu portfólio analítico e não representa nenhum dado real empresarial.
 
-⚠️ Observações
-
-Este projeto utiliza dados fictícios, criados exclusivamente para fins de estudo e prática.
-
-Todo o material faz parte do meu portfólio analítico e não representa nenhum dado real empresarial.
 
 
 
