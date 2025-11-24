@@ -20,7 +20,7 @@ Além disso, o projeto implementa um RLS (Row-Level Security) integrado com uma 
 ---
 
 ### 📌 Modelagem em Snowflake Schema: 
-  - Fatos, Dimensões,
+  - Fato e Dimensões;
   - Tabelas auxiliares:
       - Selecao_Medida → troca de indicadores
       - Segmento_Visual → segmentações dinâmicas
@@ -41,13 +41,13 @@ Permitindo que cada usuário visualize apenas dados do seu País autorizado.
 
 ### 🌍 1. Aba Geral – Visão Geral de Performance
 
-- KPIs estratégicos (Vendas Brutas, Margem, Crescimento LY, Vendas Líquidas)
+- KPIs estratégicos (Vendas Brutas, Margem, Crescimento LY, Vendas Líquidas);
 
-- Tendência de vendas x custos
+- Tendência de vendas x custos;
 
-- Distribuição de produtos por continente
+- Distribuição de produtos por continente;
 
-- Top produtos globais
+- Top produtos globais.
 
 *Objetivo: visão executiva para decisões rápidas.* 
 
@@ -58,13 +58,13 @@ Permitindo que cada usuário visualize apenas dados do seu País autorizado.
 
 ### 📈 2. Aba Performance – Visão Estratégica
 
-- Análise histórica mês a mês (vendas x ano anterior)
+- Análise histórica mês a mês (vendas x ano anterior);
 
-- Participação das categorias no total de vendas
+- Participação das categorias no total de vendas;
 
-- Ranking das marcas com maior retorno
+- Ranking das marcas com maior retorno;
 
-- Margem por categoria
+- Margem por categoria.
 
   *Objetivo: identificar oportunidades e produtos estratégicos.* 
   
@@ -81,15 +81,13 @@ Permitindo que cada usuário visualize apenas dados do seu País autorizado.
 
 ### 🛒 3. Aba Promoções & Descontos
 
-- Comparação entre Custo Total vs Vendas Brutas
+- Comparação entre Custo Total vs Vendas Brutas;
 
-- Top 3 promoções
+- Top 3 promoções;
 
-- Filtros por Categoria, Loja e País
+- Filtros por Categoria, Loja e País;
 
-- Mapa estratégico de vendas por país
-
-- Gráfico País com ranking de faturamento
+- Gráfico País com ranking de faturamento.
 
 *Objetivo: medir o impacto das campanhas promocionais e priorizar ações comerciais.*
 
@@ -100,24 +98,25 @@ Permitindo que cada usuário visualize apenas dados do seu País autorizado.
 
 ## 📌 Segmentações Inteligentes
 
-- Botões de alternância entre indicadores
+- Botões de alternância entre indicadores;
 
-- Segmentação por País, Loja e Categoria
+- Segmentação por País, Loja e Categoria;
 
-- Filtros sincronizados entre abas
+- Filtros sincronizados entre abas.
 
 ---
 
 ## 🛠️ Ferramentas
 
-  - Power BI Desktop – modelagem, DAX, navegação e RLS
-  - Figma – design visual do dashboard
-  - SharePoint – armazenamento e atualização automática da base
+  - Power BI Desktop – modelagem, DAX, navegação e RLS;
+  - Figma – design visual do dashboard;
+  - SharePoint – armazenamento e atualização automática da base.
 
 
 ### ⚠️ Observações
 
 Este projeto utiliza dados fictícios, criados exclusivamente para fins de estudo e prática. Todo o material faz parte do meu portfólio analítico e não representa nenhum dado real empresarial.
+
 
 
 
