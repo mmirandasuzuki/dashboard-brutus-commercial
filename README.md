@@ -62,7 +62,7 @@ Permitindo que cada usuário visualize apenas dados do seu País autorizado.
 
 - Top produtos globais
 
-* 👉 Objetivo: visão executiva para decisões rápidas. *
+*Objetivo: visão executiva para decisões rápidas.* 
 
 ![Dashboard - Figma](./pag1.png)
 
@@ -85,7 +85,8 @@ Valor da venda
 
 Indicador selecionado
 
-📸 Print da Aba Performance
+![Dashboard - Figma](./pag2.png)
+
 
 ### 🛒 3. Aba Promoções & Descontos
 
@@ -104,19 +105,17 @@ Indicador selecionado
 🔢 Principais Indicadores Criados
 📌 Métricas DAX (exemplos)
 
-Vendas Brutas
+- Vendas Brutas
 
-Crescimento LY
+- Crescimento LY
 
-Margem (%)
+- Margem (%)
 
-Vendas Líquidas
+- Vendas Líquidas
 
-SAMEPERIODLASTYEAR()
+- Tooltip personalizada com métricas dedicadas
 
-Indicadores Dinâmicos usando SELECTEDVALUE
-
-Tooltip personalizada com métricas dedicadas
+ ![Dashboard - Tooltip](./tooltip.png)
 
 📌 Segmentações Inteligentes
 
@@ -151,5 +150,6 @@ DAX e Modelagem em Snowflake
 Este projeto utiliza dados fictícios, criados exclusivamente para fins de estudo e prática.
 
 Todo o material faz parte do meu portfólio analítico e não representa nenhum dado real empresarial.
+
 
 
