@@ -1,9 +1,5 @@
 # 🎯 Dashboard Comercial – Visão Estratégica e Operacional (SharePoint + RLS)
 
-## 📁 Repositório #2 de BI – Caso Fictício para Portfólio
-
-
----
 ## 🧩 Visão Geral do Projeto
 
 Este projeto apresenta a construção de um Dashboard Comercial completo, capaz de entregar insights estratégicos sobre:
@@ -136,6 +132,7 @@ Indicador selecionado
 ### ⚠️ Observações
 
 Este projeto utiliza dados fictícios, criados exclusivamente para fins de estudo e prática. Todo o material faz parte do meu portfólio analítico e não representa nenhum dado real empresarial.
+
 
 
 
