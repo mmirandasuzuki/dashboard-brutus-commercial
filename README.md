@@ -65,7 +65,9 @@ Permitindo que cada usuário visualize apenas dados do seu País autorizado.
 - Ranking das marcas com maior retorno
 
 - Margem por categoria
-- 
+
+  *Objetivo: identificar oportunidades e produtos estratégicos.* 
+  
 ![Dashboard - Figma](./pag2.png)
 
 ### 🧰 Inclui Tooltip personalizada:
@@ -88,6 +90,8 @@ Permitindo que cada usuário visualize apenas dados do seu País autorizado.
 - Mapa estratégico de vendas por país
 
 - Gráfico País com ranking de faturamento
+
+*Objetivo: medir o impacto das campanhas promocionais e priorizar ações comerciais.*
 
 ![Dashboard - Figma](./pag3.png)
 
@@ -114,6 +118,7 @@ Permitindo que cada usuário visualize apenas dados do seu País autorizado.
 ### ⚠️ Observações
 
 Este projeto utiliza dados fictícios, criados exclusivamente para fins de estudo e prática. Todo o material faz parte do meu portfólio analítico e não representa nenhum dado real empresarial.
+
 
 
 
