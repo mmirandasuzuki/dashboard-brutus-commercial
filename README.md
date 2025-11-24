@@ -13,6 +13,8 @@ Este projeto apresenta a construção de um Dashboard Comercial completo, capaz 
 
 Além disso, o projeto implementa um RLS (Row-Level Security) integrado com uma tabela de usuários e SharePoint, garantindo segurança de acesso por País.
 
+*Filtros sincronizados entre abas.*
+
 ---
 
 *🔔 Todos os dados são fictícios e foram criados apenas para fins educacionais.*
@@ -101,7 +103,6 @@ Permitindo que cada usuário visualize apenas dados do seu País autorizado.
 
 - Segmentação por País, Loja e Categoria;
 
-- Filtros sincronizados entre abas.
 
 ---
 
@@ -115,6 +116,7 @@ Permitindo que cada usuário visualize apenas dados do seu País autorizado.
 ### ⚠️ Observações
 
 Este projeto utiliza dados fictícios, criados exclusivamente para fins de estudo e prática. Todo o material faz parte do meu portfólio analítico e não representa nenhum dado real empresarial.
+
 
 
 
