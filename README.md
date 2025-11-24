@@ -124,11 +124,6 @@ Indicador selecionado
 
 - Filtros sincronizados entre abas
 
-
-🔗 Visualize o Dashboard
-
-👉 Adicione aqui o link do Power BI Service, se desejar
-
 ---
 
 ## 🛠️ Ferramentas
@@ -141,6 +136,7 @@ Indicador selecionado
 ### ⚠️ Observações
 
 Este projeto utiliza dados fictícios, criados exclusivamente para fins de estudo e prática. Todo o material faz parte do meu portfólio analítico e não representa nenhum dado real empresarial.
+
 
 
 
