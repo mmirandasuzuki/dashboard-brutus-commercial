@@ -58,9 +58,9 @@ Permitindo que cada usuário visualize apenas dados do seu País autorizado.
 
 ### 📈 2. Aba Performance – Visão Estratégica
 
-- Análise histórica mês a mês (vendas x ano anterior);
+- Análise de tendências (vendas x ano anterior);
 
-- Participação das categorias no total de vendas;
+- Participação das categorias no total de vendas brutas;
 
 - Ranking das marcas com maior retorno;
 
@@ -86,14 +86,13 @@ Permitindo que cada usuário visualize apenas dados do seu País autorizado.
 - Top 3 promoções;
 
 - Filtros por Categoria, Loja e País;
+  
+- Vendas vs custo total por ano;
 
-- Gráfico País com ranking de faturamento.
 
 *Objetivo: medir o impacto das campanhas promocionais e priorizar ações comerciais.*
 
 ![Dashboard - Figma](./pag3.png)
-
- ---
 
 
 ## 📌 Segmentações Inteligentes
@@ -116,6 +115,7 @@ Permitindo que cada usuário visualize apenas dados do seu País autorizado.
 ### ⚠️ Observações
 
 Este projeto utiliza dados fictícios, criados exclusivamente para fins de estudo e prática. Todo o material faz parte do meu portfólio analítico e não representa nenhum dado real empresarial.
+
 
 
 
