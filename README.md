@@ -16,7 +16,8 @@ Figma – design visual do dashboard
 
 SharePoint – armazenamento e atualização automática da base
 
-🧩 Visão Geral do Projeto
+---
+## 🧩 Visão Geral do Projeto
 
 Este projeto apresenta a construção de um Dashboard Comercial completo, capaz de entregar insights estratégicos sobre:
 
@@ -29,10 +30,10 @@ Este projeto apresenta a construção de um Dashboard Comercial completo, capaz 
 
 Além disso, o projeto implementa um RLS (Row-Level Security) integrado com uma tabela de usuários e SharePoint, garantindo segurança de acesso por País.
 
-🔔 Todos os dados são fictícios e foram criados apenas para fins educacionais.
+## 🔔 Todos os dados são fictícios e foram criados apenas para fins educacionais.
 
-🗂️ Arquitetura da Solução
-📌 1. Base no SharePoint
+## 🗂️ Arquitetura da Solução
+### 📌 1. Base no SharePoint
 
 Toda a base de dados foi armazenada no SharePoint, permitindo:
 
@@ -42,7 +43,7 @@ Governança e versionamento
 
 Integração segura com Power BI
 
-📌 2. Modelagem em Snowflake Schema
+### 📌 2. Modelagem em Snowflake Schema
 
 Composto por:
 
@@ -68,23 +69,24 @@ Implementado via:
 Conectado à tabela RLS_Usuarios
 Permitindo que cada usuário visualize apenas dados do seu País autorizado.
 
-📊 Estrutura do Dashboard
-🌍 1. Aba Geral – Visão Global de Performance
+## 📊 Estrutura do Dashboard
 
-KPIs estratégicos (Vendas Brutas, Margem, Crescimento LY, Vendas Líquidas)
+### 🌍 1. Aba Geral – Visão Global de Performance
 
-Tendência de vendas x custos
+- KPIs estratégicos (Vendas Brutas, Margem, Crescimento LY, Vendas Líquidas)
 
-Distribuição de produtos por continente
+- Tendência de vendas x custos
 
-Top produtos globais
+- Distribuição de produtos por continente
 
-👉 Objetivo: visão executiva para decisões rápidas.
+- Top produtos globais
+
+* 👉 Objetivo: visão executiva para decisões rápidas. *
 
 📸 Print da Aba Geral
 (adicione a imagem aqui — exemplo do Notion)
 
-📈 2. Aba Performance – Visão Estratégica
+### 📈 2. Aba Performance – Visão Estratégica
 
 Análise histórica mês a mês (vendas x ano anterior)
 
@@ -105,17 +107,17 @@ Indicador selecionado
 
 📸 Print da Aba Performance
 
-🛒 3. Aba Promoções & Descontos
+### 🛒 3. Aba Promoções & Descontos
 
-Comparação entre Custo Total vs Vendas Brutas
+- Comparação entre Custo Total vs Vendas Brutas
 
-Top 3 promoções
+- Top 3 promoções
 
-Filtros por Categoria, Loja e País
+- Filtros por Categoria, Loja e País
 
-Mapa estratégico de vendas por país
+- Mapa estratégico de vendas por país
 
-Gráfico País com ranking de faturamento
+- Gráfico País com ranking de faturamento
 
 📸 Print da Aba Promoções
 
@@ -169,3 +171,4 @@ DAX e Modelagem em Snowflake
 Este projeto utiliza dados fictícios, criados exclusivamente para fins de estudo e prática.
 
 Todo o material faz parte do meu portfólio analítico e não representa nenhum dado real empresarial.
+
